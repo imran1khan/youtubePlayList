@@ -1,3 +1,18 @@
+# how to use this app
+
+### first copy any youtube channel_ID
+
+https://github.com/imran1khan/youtubePlayList/assets/107169527/5f3dba5d-e16c-492f-afd8-74768af5f567
+
+paste the channel_ID in the app and search, and all the playlist which are public by this channel, you can see them here.
+
+you can search and filter yout playlist in here which you cannot do in youtube
+
+https://github.com/imran1khan/youtubePlayList/assets/107169527/298c62af-3cef-4a3a-83e5-aa2e347459ac
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
